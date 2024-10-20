@@ -62,5 +62,6 @@ string = 'abcd'
 perm_length = 3  # Set your permutation length dynamically here
 permutations = get_permutations(string, perm_length)
 print(permutations)
+print(permutations)
 
 
