@@ -64,5 +64,9 @@ permutations = get_permutations(string, perm_length)
 print(permutations)
 print(permutations)
 print(permutations)
+print(permutations)
+print(permutations)
+print(permutations)
+print(permutations)
 
 
