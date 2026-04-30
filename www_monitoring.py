@@ -11,10 +11,10 @@ URLS_FILE = "urls.txt"
 REPORT_DIR = "reports"
 REPORT_FILE = "website_status.csv"
 
-CHECK_INTERVAL = 60  # seconds
+CHECK_INTERVAL = 60  # sekund
 TIMEOUT = 5
 
-
+# overrride
 Path(REPORT_DIR).mkdir(exist_ok=True)
 
 report_path = Path(REPORT_DIR) / REPORT_FILE
