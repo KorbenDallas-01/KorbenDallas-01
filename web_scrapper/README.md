@@ -76,7 +76,3 @@ books-scraper/
 - [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/) — HTML parsing
 
 ---
-
-## License
-
-MIT
